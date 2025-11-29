@@ -1,10 +1,9 @@
 # SpaceLander-TI
 TI-99/4A port of C64 Space Lander from COMPUTE'S! GAZETTE magazine Issue 5
 
-
 | **Space Lander -- Version 00 - Port from C64 to TI-99/4A** |
 | ------- |
-| ![SPACELANDER_V00](ti_lndr4.png) | 
+| ![SPACELANDER_TI_01](ti_lndr4.png) | 
 
 ---
 
@@ -37,5 +36,17 @@ The files:
 * TI_LANDER_XB -- TI Extended Basic Program saved by the emulator on the host's emulated disk.
   
 * TI_LANDER.txt -- PC Text file version of the BASIC listing. Copy from Notepad++ and paste into the Classic99 window works fine.
+
+---
+
+| **Space Lander -- TI-99/4A playing ** |
+| ------- |
+| ![SPACELANDER_TI_02](ti_lndr3.png) | 
+
+---
+
+| **Space Lander -- TI-99/4A more playing** |
+| ------- |
+| ![SPACELANDER_TI_03](ti_lndr5.png) | 
 
 ---
